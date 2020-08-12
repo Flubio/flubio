@@ -6,7 +6,7 @@ I'll write my GCSE next year and will then continue trying to graduate college o
 
 🔭 I’m currently working on some fun Projects especially on [PeriodSystemWordCheck](https://github.com/Flubio/PeriodSystemWordCheck).
 
-📫 How to reach me: \
+📫 How to reach me: 
   
 E-Mail: development@flubio.de \
 Soon: [flubio.de/contact](https://flubio.de/contact)

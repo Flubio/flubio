@@ -10,6 +10,10 @@ I'll write my GCSE next year and will then continue trying to graduate college o
   
 E-Mail: development@flubio.de \
 Soon: [flubio.de/contact](https://flubio.de/contact)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=flubio)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Flubio/flubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,8 @@
 [![Website](https://img.shields.io/website?label=flubio.de&style=for-the-badge&url=https%3A%2F%2Fflubio.de)](https://flubio.de)
 ![Twitter Follow](https://img.shields.io/twitter/follow/luft_matthias?color=%231DA1F2&label=Follow%20my%20Twitter&logo=Twitter&style=for-the-badge)
 [![Visits Badge](https://badges.pufler.dev/visits/flubio/flubio)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/flubio)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/flubio)](https://badges.pufler.dev)
 
 ### Hi there 👋
 

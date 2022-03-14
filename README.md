@@ -4,7 +4,7 @@
 
 I'm Matthias aka. Flubio/flubi0 I'm a 17 year old german. I've started coding when I was 12 (can't consider playing arround with html as coding i know).
 Over the years I gained some knowladge in Html, CSS, SCSS, Type-/Javascript, Java, C#, linux Shell and a little bit c++. I'm aiming to study Computer Science abroad or in germany.
-I'll write my GCSE 2021 and will then continue trying to graduate school of further education to get my a levels.
+I graduated 2021 and by this I gained my GCSE. Since Summer 2021 I attend a school of higher education to get my a levels.
 
 🔭 I’m currently working on some fun Projects.
 </br>

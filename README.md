@@ -12,6 +12,9 @@ I graduated 2021 and by this I gained my GCSE. Since Summer 2024 I graduated sch
 </br>
 </br>
 
+🎧 What I last listened to:  
+<img alt="last listened song" src="https://flubio.de/api/badge" width=300>
+
 📫 How to reach me: 
   
 E-Mail: development@flubio.de \

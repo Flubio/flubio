@@ -17,8 +17,9 @@ I graduated 2021 and by this I gained my GCSE. Since Summer 2024 I graduated sch
 
 📫 How to reach me: 
   
-[LinkedIn](https://www.linkedin.com/in/matthias-l%C3%BCft-773718225/)
-[Email](mailto:matthias@flubio.de?subject=[GITHUB MESSAGE REQUEST])
+[🖇️LinkedIn](https://www.linkedin.com/in/matthias-l%C3%BCft-773718225/) 
+
+[📥Contact Page](https://flubio.de/contact)
   
 <details>
   <summary>:zap: Github Stats</summary>

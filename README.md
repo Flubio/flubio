@@ -20,12 +20,6 @@ I graduated 2021 and by this I gained my GCSE. In Summer of 2024 I graduated sch
 [🖇️LinkedIn](https://www.linkedin.com/in/matthias-l%C3%BCft-773718225/) 
 
 [📥Contact Page](https://flubio.de/contact)
-  
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="flubio's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flubio&layout=compact">
-  <img align="left" alt="flubio's github stats" src="https://github-readme-stats.vercel.app/api?username=flubio">
-</details>
 
 <!--
 **Flubio/flubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

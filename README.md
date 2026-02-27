@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Matthias aka. Flubio/flubi0 I'm a 21 year old german studying Software Design B. Sc..
-I have some knowladge in java, c# and typescript.
-Currently working on extending my knowladge in c# and typescript.
+I have some knowledge in java, c# and typescript.
+Currently working on extending my knowledge in c# and typescript.
 
 🔭 I’m currently working on [ingestdata.io](https://ingestdata.io)
 </br>

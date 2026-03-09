@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matthias aka. Flubio/flubi0 I'm a 21 year old german studying Software Design B. Sc..
+I'm Matthias I'm a 21 year old german studying Software Design B. Sc..
 I have some knowledge in java, c# and typescript.
 Currently working on extending my knowledge in c# and typescript.
 
